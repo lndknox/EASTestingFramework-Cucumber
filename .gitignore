@@ -41,7 +41,8 @@
  .idea/modules
  *.iml
  *.ipr
- target/
+ */target/**
+ */target/test-classes/**
 
 # CMake
 cmake-build-*/
