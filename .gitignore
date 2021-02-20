@@ -108,3 +108,12 @@ fabric.properties
 .idea/codestream.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+/target/test-classes/hellocucumber/IsItFriday.class
+/target/test-classes/hellocucumber/.gitkeep
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/surefire-reports/hellocucumber.RunCucumberTest.txt
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/test-classes/hellocucumber/is_it_friday_yet.feature
+/target/test-classes/hellocucumber/RunCucumberTest.class
+/target/test-classes/hellocucumber/StepDefinitions.class
+/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml
